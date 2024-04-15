@@ -1,0 +1,15 @@
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\bin\Debug\net8.0\SyberSecurity.Interfaces.deps.json
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\bin\Debug\net8.0\SyberSecurity.Interfaces.dll
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\bin\Debug\net8.0\SyberSecurity.Interfaces.pdb
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\bin\Debug\net8.0\SyberSecurity.Domain.dll
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\bin\Debug\net8.0\SyberSecurity.Domain.pdb
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.csproj.AssemblyReference.cache
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.AssemblyInfoInputs.cache
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.AssemblyInfo.cs
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.csproj.CoreCompileInputs.cache
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.csproj.CopyComplete
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.dll
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\refint\SyberSecurity.Interfaces.dll
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\SyberSecurity.Interfaces.pdb
+E:\downloads\Syber Security V2\Syber Security V2\Syber Security.Interfaces\obj\Debug\net8.0\ref\SyberSecurity.Interfaces.dll
